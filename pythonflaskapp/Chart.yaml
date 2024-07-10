@@ -7,7 +7,7 @@ keywords:
   - python
   - flask
 # sources:
-#   - https://github.com/mathesh-me/helm-python-flask-app
+#   - https://github.com/Tabbukhan/helm-python-flask.git
 maintainers:
   - name: Tashue K
     email: itztashue@gmail.com
