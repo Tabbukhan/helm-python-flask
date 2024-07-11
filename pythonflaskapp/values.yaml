@@ -3,7 +3,7 @@ deployment:
   image:
     owner: memathesh
     repository: pythonflaskapp
-    tag: 475b3b34ecb1cd1b6eb96e5b8f0676c6abc00e84
+    tag: 1ad2e07635f8b8f8f35e353cc0a9f8c7af1560aa
   container:
     name: pythonflaskapp
     port: 80
